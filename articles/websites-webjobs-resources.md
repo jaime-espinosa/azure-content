@@ -70,7 +70,7 @@ This topic links to documentation resources about how to use Azure WebJobs and t
 
 ##<a name="blogs"></a>Blogs to watch
 
-* [Amit Apple's blog](http://blog.amitapple.com/). Focuses on WebJobs (not the SDK).
+* [Amit Apple's blog](http://blog.amitapple.com/). Focuses on WebJobs Runtime.
 * [Mike Stall's blog](http://blogs.msdn.com/b/jmstall/archive/tags/simplebatch/). Focuses on the WebJobs SDK. 
 * [Magnus Mårtensson's blog](http://magnusmartensson.com/)
 
