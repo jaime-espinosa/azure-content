@@ -4,7 +4,7 @@
 	services="app-service\web"
 	documentationCenter=""
 	authors="jaime-espinosa"
-	manager="wpickett"
+	manager="yochayk"
 	editor="jimbe"/>
 
 <tags
@@ -13,7 +13,7 @@
 	ms.tgt_pltfrm="na"
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="03/24/2015"
+	ms.date="07/10/2015"
 	ms.author="jaime-espinosa"/>
 
 # Reference for navigating the Azure portal
